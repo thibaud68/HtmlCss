@@ -1,0 +1,73 @@
+
+
+/*tableau page cv*/
+
+.barre-navigation{
+  background-color: #2980b9;
+  width: 100%;
+  
+}
+td{
+	padding-right: 300px;
+}
+#tb h3{
+	
+	text-align: center;
+	padding-left: 80px;
+	padding-right:300px;
+}
+#tb{background-color:#086a87;
+	color: white;
+	
+	
+}
+textarea{
+	width: 100%;
+}
+
+.container{
+	background-color: #2980b9;
+	width:96%;
+
+}
+a{
+	color:white;
+}
+.pied-page{
+	background-color: #082b57;
+	color: white;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+.copyright{
+	margin-top: 20px;
+}
+.row p{
+	margin-top: 30px;
+}
+img{
+	margin-top: 30px
+}
+#header-contact{
+	height: 250px;
+	background-image: url(images/consommation-energie-mail-internet-min.jpg);
+	background-size: cover;
+	background-position: 50% 45%;
+	margin-bottom: 30px;
+}
+
+#header-index{
+	height: 250px;
+	background-image: url(images/livre-ouvert-.jpg);
+	background-size: cover;
+	background-position: 50% 93%;
+	margin-bottom: 30px;
+}
+
+#header-cv{
+	height: 250px;
+	background-image: url(images/homecris.jpg);
+	background-size: cover;
+	background-position: 50% 45%;
+	margin-bottom: 30px;
+}

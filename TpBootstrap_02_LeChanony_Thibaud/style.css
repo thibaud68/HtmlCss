@@ -1,0 +1,32 @@
+.barre-navigation{
+  background-color: #2980b9;
+  
+}
+
+a{
+  color: white;
+}
+#header-index{
+	height: 250px;
+	background-image: url(images/livre-ouvert-.jpg);
+	background-size: cover;
+	background-position: 50% 93%;
+	margin-bottom: 30px;
+}
+#header-effectif{
+	height: 250px;
+	background-image: url(images/homecris.jpg);
+	background-size: cover;
+	background-position: 50% 93%;
+	margin-bottom: 30px;
+}
+.pied-page{
+	background-color: #082b57;
+	color: white;
+	margin-top: 30px;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+.rom{
+	margin-top: 30px;
+}

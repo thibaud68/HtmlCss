@@ -1,0 +1,42 @@
+#header-index{
+	height: 250px;
+	background-image: url(images/serfa-mulhouse-23922-600-600-F.jpg);
+	background-size: cover;
+	background-position: 50% 45%;
+	margin-bottom: 30px;
+
+}
+
+.pied-page{
+	background-color: #082b57;
+	color: white;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+.barre-navigation{
+  background-color: #2980b9;
+  width: 100%;
+  
+}
+.barre-navigation a{
+	font-size: 20px;
+	color: white;
+}
+.col-md-3{
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+.col-md-6{
+margin-bottom: 30px;
+}
+form{
+	width: 100%;
+}
+form{
+  
+text-align: center;
+
+} 
+.blog{
+	background-image: url(images/fond-laei2.jpg);
+}

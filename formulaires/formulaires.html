@@ -1,0 +1,46 @@
+<!DOCTYPEhtml>
+<html lang="fr">
+	<head>
+		<meta charset="UTF-8"/>
+			<title>Les Formulaires</title>
+
+
+	</head>
+		<BODY>
+			<form method="post" action="traitement.php">
+				<input type="text" name="mon_text_1"/>
+				<br/>
+				<label for="balise_1">Mon 1er  texte</label>
+				<input type="text" id="balise_2" name="mon_texte_1"/>
+				<br/>
+				<input type="text" value="Mon texte" id="balise_3" name="mon texte_1"/>
+				<br/>
+				<input type="text" placeholder="Mon texte" id="balise_4" name="mon texte_1"/>
+				<br/>
+				<input type="checkbox" id="subscribeNews" name="subscribe" value="newsletter">
+				<label for="subscribeNews">Souhaitez-vous vous abonner à la newsletter ?</label>
+				<br/>
+				<input type="radio" id="homme" name="sexe" value="homme">
+					<label for="homme">Un homme</label>
+				<input type="radio" id="femme" name="sexe" value="femme">
+					<label for="femme">Une femme</label>
+					<br/>
+				<input type="password" name="motdepass" id="motdepasse"/>
+				<br/>
+				<label for="motdepasse">mot de passe</label>
+				<br/>
+				<textarea id="balise_5" name="mon_texte_2"></textarea>
+				<br/>
+				<select name="pays" id="pays">
+					<OPTION value="france">France</select<option>
+					<OPTION value="allemagne">Allemagne</OPTION>
+					<option value="espagne">Espagne</option>
+				<br/>
+				<input type="submit" value="Envoyer"/>
+				<br/>
+				<button type="button">Je suis un bouton</button>
+				<br/>
+				<input type="submit" value="Envoyer"disabled/>
+			</form>
+		</BODY>
+</html>

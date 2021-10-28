@@ -1,0 +1,92 @@
+
+.t{
+
+	display: flex;
+	margin-left:600px;
+	margin-right:1200px; 
+}
+.t a{
+	color: white;
+	text-decoration: none;
+	margin-top: 20px;
+	margin-left: 40px;
+	margin-right:480px;
+	margin-bottom:40px;
+}
+#enca{
+display: flex;
+background-color: violet;
+color: white;
+}
+
+.imageHT1{
+	margin-right:150px; 
+	margin-left:150px;
+}
+#imagetext{
+	display: flex;
+	margin-right:150px; 
+	margin-left:150px;
+}
+
+.text p{
+	width: 50%;
+	margin-right:150px; 
+	margin-left:150px;
+}
+#text2 p{
+	
+	margin-right:150px; 
+	margin-left:150px;
+}
+
+.encadré{
+	display: flex;
+	color: white;
+	background-color: black;
+}
+form {
+
+  margin-left:150px;
+  position: relative;
+  width: 550px;
+  height: 450px;
+  font-family: Tahoma, Geneva, sans-serif;
+  font-size: 14px;
+  font-style: italic;
+  line-height: 24px;
+  font-weight: bold;
+  color: #09C;
+  text-decoration: none;
+
+}
+
+table{
+	display: flex;
+	text-align: center; 
+	margin-top: 50px;
+	margin-left: 500px;
+	margin-right: 150px;
+	margin-bottom: 50px;
+}
+
+td{
+	padding-right: 300px;
+}
+#tb h3{
+	
+	text-align: center;
+	margin-left: 80px;
+	margin-right:300px;
+}
+#tb{background-color:#086a87;
+	color: white;
+	text-align: center;
+	margin-left: 150px;
+	margin-right:150px;
+
+}
+textarea{
+	width: 290%;
+}
+

@@ -1,0 +1,53 @@
+body{
+  width: 1920px;
+  background-color:rgba( 124, 244, 89, 0.5);
+
+}
+#margeHT{
+  margin-top: 80px;
+   text-align: center;
+}
+#conteneur{
+ 
+  display: flex;
+}
+#margeGCH{
+  margin-top: 80px;
+  margin-left: 50px;
+  margin-right: 100px;
+  margin-bottom: 80px
+}
+#texte1{
+  margin-top: 80px;
+  margin-left: 100px;
+  margin-right:50px;
+  margin-bottom: 80px
+  width: 60%;
+}
+  
+#margeMil{
+  margin-top: 80px;
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-bottom: 200px;
+}
+
+#plan
+{
+ margin-left: 600px;
+}
+#margeHt2{
+  margin-top: 180px;
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-bottom: 80px;
+}
+
+#margeMl2{
+  border: solid:2px;
+  margin-top: 80px;
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-bottom: 20px;
+
+}
